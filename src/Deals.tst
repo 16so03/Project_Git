@@ -1,0 +1,3 @@
+This is my try to create someting in Git
+....
+  Is it a deal?
