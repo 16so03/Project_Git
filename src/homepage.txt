@@ -6,3 +6,6 @@ loading
 Hey Sofiia:)
 
 page
+
+//new img 1
+..
